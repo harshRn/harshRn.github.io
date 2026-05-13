@@ -10,3 +10,6 @@ Gemfile.lock
 
 CLAUDE.md
 .claude/
+
+# New Astro project — own git repo, separate deployment target (Cloudflare Pages → new domain)
+landing/
