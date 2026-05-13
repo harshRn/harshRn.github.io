@@ -1,7 +1,0 @@
-title: Jīqìréns
-description: Products by Jīqìréns.
-markdown: kramdown
-repository: harshRn/harshRn.github.io
-exclude:
-  - landing/
-  - migration_plan.md
